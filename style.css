@@ -1,0 +1,33 @@
+body {
+   background-color: #1D4221:
+   color: white;
+   font -family: ; "Bai jampuree", sans- serif;
+   display: flex;
+   jusitfy- content: center;
+   align-items: 700px;
+   height: 700 px;
+   margin:0;
+}   
+
+button { 
+    background-color: #1D4221;
+    color:white;
+    font -family: ; "Bai jampuree", sans- serif;
+}
+
+.passo{
+    display; none;
+}
+
+.passo.ativo{
+    display:block;
+}
+
+main {
+  text-align: center;
+ max-widht: 90;%;
+}
+
+img {
+   max-widht: 90%
+}
